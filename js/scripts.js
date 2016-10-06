@@ -6,7 +6,7 @@ console.log('OK USA!!');
 //$('img').hide();
 
 $('img').imageLens({ 
-    imsgeSrc: "img/watch-zoom.jpg",
+    imsgeSrc: 'image-lens/img/watch-zoom.jpg',
     borderColor: "#ffff31",  
     lensSize: 600 
 });
